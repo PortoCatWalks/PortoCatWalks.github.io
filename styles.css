@@ -93,12 +93,12 @@ body {
               url('https://images.unsplash.com/photo-1569383746724-6f1846f5cc2f?auto=format&fit=crop&w=1200');
   background-size: cover;
   background-position: center;
-  min-height: 60vh;
+  min-height: 40vh;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 1rem;
+  padding: 0rem;
   color: var(--white);
   position: relative;
 }
